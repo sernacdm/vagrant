@@ -1,2 +1,2 @@
 <?php
-    echo "hello world";
+    include("public/base/nav.view.php");
